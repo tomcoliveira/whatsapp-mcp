@@ -1,2 +1,0 @@
-# whatsapp-mcp
-wpp mcp
