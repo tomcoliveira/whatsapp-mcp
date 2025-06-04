@@ -6,4 +6,3 @@ RUN go mod download
 RUN go build -o whatsapp-bridge
 EXPOSE 8080
 CMD ["./whatsapp-bridge"]
-EOF
