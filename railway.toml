@@ -1,8 +1,0 @@
-toml[build]
-builder = "HEROKU_22"
-
-[build.buildpacks]
-bp = "heroku/go"
-
-[env]
-CGO_ENABLED = "1"
